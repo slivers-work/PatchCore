@@ -1,4 +1,3 @@
 # PatchCore
-PatchCore Binary Classification Image Issue
-## The ckpt model weight file is located in project 0525.
-
+PatchCore二分类图像问题 
+## ckpt模型权重文件在项目0525中
